@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./Screenshot (3).png)
+![ScreenShot](./Screenshot (3).png)
 
 ## Built with
 
