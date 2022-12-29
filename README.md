@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![ScreenShot](Screenshot (3).png)
+![ScreenShot](https://github.com/chayansurana3/P2-Product-Card-Component/blob/main/Screenshot%20(3).png)
 
 ## Built with
 
